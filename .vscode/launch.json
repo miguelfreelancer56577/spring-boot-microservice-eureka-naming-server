@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-App<spring-boot-microservice-eureka-naming-server>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.github.mangelt.microservice.eureka.App",
+            "projectName": "spring-boot-microservice-eureka-naming-server",
+            "args": "",
+            "env": {
+                "SERVER_PORT": "7676"
+            },
+        }
+    ]
+}
